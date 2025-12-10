@@ -1,4 +1,4 @@
-# The project contains a basic project of Chatbot and a Hangman game made using python.
+## The repository contains a basic project of Chatbot and a Hangman game made using python.
 
 ## Table of contents:
 1. About the Project

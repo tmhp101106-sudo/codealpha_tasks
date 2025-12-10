@@ -41,4 +41,4 @@
 
 ### 5. Future improvements:
   I plan to add several more conversational texts and add a GUI for the chatbot and add 
-  difficulty level and scoring systems.
+  difficulty level and scoring systems for the hangman game.

@@ -3,10 +3,9 @@
 ## Table of contents:
 1. About the Project
 2. Features of the project
-3. Project structure
-4. Technologies used
-5. Installation and running the project
-6. Future improvements
+3. Technologies used
+4. Installation and running the project
+5. Future improvements
 
 ### 1. About the Project:
   - Basic algorithmic thinking
@@ -37,7 +36,8 @@
 ### 4. Installation and running the project:
   1. Framing a basic algorithm for the chatbot and the hangman game.
   2. Install VS code.
-  3. Type the code, then compile and run it.
+  3. Install the latest version of python.
+  4. Type the code, then compile and run it.
 
 ### 5. Future improvements:
   I plan to add several more conversational texts and add a GUI for the chatbot and add 
